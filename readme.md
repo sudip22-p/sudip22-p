@@ -1,6 +1,7 @@
 <h1 align="center">Hey there!!👋, I'm Sudip Paudel</h1>
 <h3 align="center">A passionate full-stack developer from Nepal</h3>
 
+<img align="right" alt="coder" width="400" src="https://cdn.dribbble.com/users/1912990/screenshots/6496981/web_developing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip22-p&label=Profile%20views&color=0e75b6&style=flat" alt="sudip22-p" /> </p>
 
 - 🌱 I’m currently learning **React.js,Flutter,Python/Django,etc**
