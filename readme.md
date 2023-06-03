@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip22-p&label=Profile%20views&color=0e75b6&style=flat" alt="sudip22-p" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudip22-p" alt="sudip22-p" /></a> </p>
-
 - 🌱 I’m currently learning **React.js,Flutter,Python/Django,etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sudip22-p/](https://github.com/sudip22-p/)
