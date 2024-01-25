@@ -4,7 +4,7 @@
 <img style="border-radius:10px;" align="right" alt="coder" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudip22-p&label=Profile%20views&color=0e75b6&style=flat" alt="sudip22-p" /> </p>
 
-- 🌱 I’m currently learning **React.js,Flutter,Python/Django,etc**
+- 🌱 I’m currently learning **React.js,Flutter,etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sudip22-p/](https://github.com/sudip22-p/)
 
