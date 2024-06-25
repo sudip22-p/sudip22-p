@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **paudelsudip555@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10GS5kj-R9C4t4rQILF3L2mCEwSfuT5CW/view?usp=drive_link](https://drive.google.com/file/d/10GS5kj-R9C4t4rQILF3L2mCEwSfuT5CW/view?usp=drive_link)
-
 - ⚡ Fun fact **I value listening and am always open to new ideas.**
 
 <h3 align="left">Connect with me:</h3>
