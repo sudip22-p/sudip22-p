@@ -26,6 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudip22-p&show_icons=true&locale=en&layout=compact" alt="sudip22-p" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudip22-p&show_icons=true&locale=en" alt="sudip22-p" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudip22-p&" alt="sudip22-p" /></p>
