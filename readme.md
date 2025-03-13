@@ -56,6 +56,5 @@
 ---
 
 ### 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudip22-p&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sudip22-p&theme=tokyonight" alt="GitHub Streak" /></p>
