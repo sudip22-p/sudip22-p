@@ -56,6 +56,5 @@
 ---
 
 ### 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sudip22-p&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudip22-p&" alt="sudip22-p" /></p>
