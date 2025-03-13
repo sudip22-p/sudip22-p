@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Sudip Paudel</h1>
-<h3 align="center">A Passionate Full-Stack Developer 🚀 | MERN | Next.js | React Native</h3>
+<h3 align="center">A Passionate Full-Stack Developer 🔥 | MERN | Next.js | React Native</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sudip22-p&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -55,6 +55,3 @@
 
 ---
 
-### 🔥 GitHub Streak  
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudip22-p&" alt="sudip22-p" /></p>
