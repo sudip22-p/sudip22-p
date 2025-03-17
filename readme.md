@@ -22,6 +22,9 @@
   <a href="https://www.facebook.com/sudip.paudel.2003">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook">
   </a>
+  <a href="https://sudip-paudel-pi.vercel.app">
+    <img src="https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white" alt="Website">
+  </a>
 </p>
 
 ---
