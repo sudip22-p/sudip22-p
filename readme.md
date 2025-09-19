@@ -1,14 +1,11 @@
 <h1 align="center">Hello 👋, I'm Sudip Paudel</h1>
-<h3 align="center">A Passionate Full-Stack Developer 🔥 | MERN | Next.js | React Native</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sudip22-p&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ## 🚀 About Me  
-- 🌱 Currently learning **Next.js & React Native**  
-- 💻 Explore my work: [GitHub](https://github.com/sudip22-p)  
-- 💬 Ask me about **JavaScript, React, Node.js**  
+- 💻 Explore my work: [GitHub](https://github.com/sudip22-p)
 - 📫 Reach me at **paudelsudip555@gmail.com**  
 - ⚡ Always open to new ideas & learning!  
 
