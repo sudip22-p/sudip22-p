@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, It's Sudip</h1>
+<h1 align="center">Hello, It's Sudip</h1>
 <h3 align="center">Flutter Developer</h3>
 
 <p align="center">
@@ -29,14 +29,46 @@
 
 ## 🛠 Tech Stack & Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />  
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />  
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />  
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />  
+  <!-- Concepts -->
+  <img src="https://img.shields.io/badge/OOP-007ACC?style=flat-square" alt="OOP" />
+  <img src="https://img.shields.io/badge/BLoC-FF6D00?style=flat-square" alt="BLoC" />
+  <img src="https://img.shields.io/badge/Provider-00C853?style=flat-square" alt="Provider" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-673AB7?style=flat-square" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/REST_API-FF5722?style=flat-square" alt="REST API" />
+  <img src="https://img.shields.io/badge/Hive-FFC107?style=flat-square" alt="Hive" />
+</p>
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+</p>
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js" />
+</p>
+
+<p align="center">
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Cloudinary-29303B?logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
